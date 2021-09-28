@@ -408,4 +408,4 @@ def test_crb():
             clusterId=cluster.id,
             roleTemplateId=role_temp.id,
             subjectKind="User",
-            userId="user-sst57")
+            userId="user-jhdbk")
